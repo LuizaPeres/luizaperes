@@ -3,6 +3,7 @@
   <a href="https://github.com/LuizaPeres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizaperes&show_icons=true&theme=jolly&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaperes&layout=compact&langs_count=7&theme=jolly"/>
+   
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
